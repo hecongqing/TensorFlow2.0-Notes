@@ -7,7 +7,12 @@ Tensorflow==2.0.0
 ```
 
 ## TextCNN
-仅用mock数据运行，还未在正式数据下运行。
+
+### 背景
+蚂蚁金服智能客服问句匹配
+https://dc.cloud.alipay.com/index#/topic/intro?id=8
+
+### 运行
 ```bash
-python  TextCNN.py
+python  training.py
 ```
