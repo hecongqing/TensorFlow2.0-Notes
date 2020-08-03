@@ -13,6 +13,16 @@
 - 实战九: tf.serving模型部署
 - 其他(TODO)
 
+## 推荐项目实战
+- MIND算法(提供Demo数据)
+TODO
+
+## NLP项目实战
+TODO
+
+## CV项目识别
+TODO
+
 ## 参考资料
 - https://www.tensorflow.org/
 - https://tf.wiki/zh_hans/
