@@ -6,8 +6,7 @@ TensorFlow_2.0实战
 Tensorflow==2.0.0
 ```
 
-## TextCNN
-仅用mock数据运行，还未在正式数据下运行。
+## MIND
 ```bash
-python  TextCNN.py
+python  main.py
 ```
