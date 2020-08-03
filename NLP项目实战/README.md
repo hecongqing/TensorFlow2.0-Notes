@@ -6,7 +6,7 @@ TensorFlow_2.0实战
 Tensorflow==2.0.0
 ```
 
-## TextCNN
+## [ESIM 算法](https://arxiv.org/pdf/1609.06038.pdf)
 
 ### 背景
 蚂蚁金服智能客服问句匹配
