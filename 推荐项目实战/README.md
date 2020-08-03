@@ -6,7 +6,7 @@ TensorFlow_2.0实战
 Tensorflow==2.0.0
 ```
 
-## MIND
+## [MIND](https://arxiv.org/pdf/1904.08030.pdf)
 ```bash
 python  main.py
 ```
