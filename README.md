@@ -28,3 +28,5 @@ TODO
 - https://www.tensorflow.org/
 - https://tf.wiki/zh_hans/
 - https://lyhue1991.github.io/eat_tensorflow2_in_30_days/
+
+https://colab.research.google.com/github/hecongqing/TensorFlow2.0-Notes/blob/master/3.4-TensorBoard%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B7%A5%E5%85%B7%E6%96%B0%E7%89%88/.ipynb_checkpoints/keras%E7%89%88%E6%9C%AC-checkpoint.ipynb
